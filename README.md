@@ -40,7 +40,7 @@ My Github Profesional Profile
 
 ###
 
-<img src="https://github.com/hendratmoko/CuricculumVitae/.github/workflows/snake.svg" alt="Snake animation" />
+<img src="https://github.com/hendratmoko/CuricculumVitae/blob/main/.github/workflows/snake.svg" alt="Snake animation" />
 <img src="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/pacman.svg" alt="Pacman animation" />
 
 ###
