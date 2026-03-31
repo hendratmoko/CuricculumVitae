@@ -1,7 +1,7 @@
 # CuricculumVitae
 My Github Profesional Profile
 
-![](github-header-banner.png)
+![hendratmoko](.github/workflows/github-header-banner.png)
 
 <!-- Komentar Anda -->
 <div align="center">
