@@ -54,7 +54,7 @@ My Github Profesional Profile
 # 💫 About Me on another place:
 
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/hendratmokoliveexpert9035?si=BstUvQiHDKm-UDWE) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/watch?app=desktop&v=1pqpADe9gGk&feature=youtu.be) 
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
