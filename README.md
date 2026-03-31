@@ -71,21 +71,6 @@ Quality Digitaly tratments to BAPPEDA Cilegon  <br>
 BNSP Standart  treatments to SMK N 1 Sanden <br>
 etc. <br>
 
-###
-
-<img src="https://github.com/hendratmoko/CuricculumVitae/blob/main/.github/workflows/snake.svg" alt="Snake animation" />
-<img src="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/pacman.svg" alt="Pacman animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 ### 💫 About Me on another place:
 
 ### 🌐 My Socials Media:
@@ -107,9 +92,27 @@ etc. <br>
 ---
 [![](https://visitcount.itsvg.in/api?id=hendratmoko&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/h_moko@yahoo.com) 
+###
 
+<img src="https://github.com/hendratmoko/CuricculumVitae/blob/main/.github/workflows/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/pacman.svg" alt="Pacman animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+<p align="center">
+  💰 You can help me by Donating:
+  <br>
+  <a href="https://paypal.me/h_moko@yahoo.com">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
+  </a>
+</p>
 
 <p align="center">
   <img src=".github/workflows/github-MOKO.png" alt="hendratmoko" width="20%">
