@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://share.google/H3xOfdgjGXgAQcM5n" width="100%">
-</div>
-
-
 # CuricculumVitae
 
 <h3 align="center">My Github Profesional Profile</h3>
