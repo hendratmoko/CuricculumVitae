@@ -1,5 +1,6 @@
 # CuricculumVitae
 My Github Profesional Profile
+
 <!-- Komentar Anda -->
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> 
@@ -39,7 +40,8 @@ My Github Profesional Profile
 
 ###
 
-<img src="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/hendratmoko/CuricculumVitae/.github/workflows/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/pacman.svg" alt="Pacman animation" />
 
 ###
 
