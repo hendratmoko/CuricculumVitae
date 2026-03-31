@@ -39,7 +39,37 @@
 
 ###
 
-<p align="left">Hi there... I'm MOKO from Indonesia<br><br>Hi there...<br>My Name Hendratmoko please call me MOKO<br>WhatsApp number +628813924881<br>Email: hendratmoko2011@gmail.com<br>Place: Bantul Yogyakarta Indonesia<br><br>I was born in Bantul and studied at UGM, UNY, UNTIRTA, before completing my studies at Harvard University. I have experience working with the Indonesia Ministry of Education and Culture and than the Cilegon City Education Department. Now, I teach Software Engineering at SMK Negeri 1 Sanden</p>
+<p align="left">Hi there... I'm MOKO from Indonesia<br><br>Hi there...<br>My Name Hendratmoko please call me MOKO<br>WhatsApp number +628813924881<br>Email: h_moko@yahoo.com<br>Place: Bantul Yogyakarta Indonesia<br><br>I was born in Bantul and studied at UGM (1995), UNY (1996), UNTIRTA (2010), before completing my studies at Harvard University (2021). I have experience working with the Indonesia Ministry of Education and Culture and than the Cilegon City Education Department. Now, I teach Software Engineering at SMK Negeri 1 Sanden</p>
+
+EXPERIENCE 
+Quality Standart ISO 9001:2000/IWA 2 treatments to Schools. 
+Quality Digitaly tratments to Schools and Agencys etc. 
+ISO 9001:2000 ISO 9001:2008 Transition Training 
+ISO 9001:2008 Series Lead Auditor (IRCA A17054)
+
+EMPLOYMENT SUMMARY 
+1 Juli 2000 To 1 Juli 2003  SMU Muhammadiyah 2 Depok
+21 Juli 2003 to To 21 Sept 2003 SMK YP Fatahillah 1 
+2006 To 2007 International School of SMU N 2 Krakatau Steel
+01 Jan 2004 to 01 Jan 2018 SMK N 1 Cilegon
+01 Jan 2018 until now SMK N 1 Sanden
+
+FORMAL SKILL
+SKILLS 
+ISO 9001:2008 Series Lead Auditor (IRCA A17054) 
+ISO 9001:2000 ISO 9001:2008 Transition Training  
+www.hendratmoko.com  Page 2 
+Assembling & Legal Action ISO 9001:2008/IWA2 Consult 
+Quality Standart ISO 9001:2000/IWA 2 treatments to SMK Negeri 1 Cilegon 
+Quality Standart ISO 9001:2000/IWA 2 treatments to SMK YP 17 Cilegon 
+Quality Standart ISO 9001:2000/IWA 2 treatments to SMK YP Fatahillah Cilegon 
+Quality Standart ISO 9001:2000/IWA 2 treatments to SMK  Yabhinka Cilegon 
+Quality Standart ISO 9001:2000/IWA 2 treatments to SMK YP Krakatau Steel Cilegon 
+Quality Standart ISO 9001:2000/IWA 2 treatments to SMK Ikhlas Multi Program Serang 
+Quality Standart ISO 9001:2000/IWA 2 treatments to SMP Negeri 2 Cilegon 
+Quality Digitaly tratments to SMA N 2 Cilegon, BAPPEDA Cilegon  
+BNSP Standart  treatments to SMK N 1 Sanden 
+etc. 
 
 ###
 
@@ -80,6 +110,11 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/h_moko@yahoo.com) 
+
+
+For further information & assistances, please do not hesitate to contact me at email, fb or my 
+mobile phone number.
+This is my Curriculum Vitae, to be used properly
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
