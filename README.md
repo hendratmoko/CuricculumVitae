@@ -110,12 +110,18 @@ etc. <br>
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/h_moko@yahoo.com) 
 
-<h4 align="center">
+
+<p align="center">
+  <img src=".github/workflows/github-MOKO.png" alt="hendratmoko" width="20%">
+</p>
+
+<h5 align="center">
 <br><br>For further information & assistances, please do not hesitate to contact me at email, fb or my mobile phone number.<br>
 This is my Curriculum Vitae, to be used properly
-</h4>
+</h5>
 
-![hendratmoko](.github/workflows/github-MOKO.png)
+
+
 
 
   
