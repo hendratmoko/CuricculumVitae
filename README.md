@@ -113,10 +113,10 @@ etc. <br>
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
   </a>
     <a href="https://saweria.co/semogabaik">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
+    <img src="https://img.shields.io/badge/SAWERIA-33%25-brown" alt="SAWERIA">
   </a>
     <a href="https://teer.id/semogabaik">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
+    <img src="https://img.shields.io/badge/Trakteer-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white" alt="TRAKTEER">
   </a>
 </p>
 
@@ -137,6 +137,7 @@ This is my Curriculum Vitae, to be used properly
 <!-- Proudly created with 
 GPRM ( https://gprm.itsvg.in ) 
 Static Badge https://shields.io/badges
+https://forthebadge.com/generator
 Profil  https://profile-readme-generator.com/
 
 -->
