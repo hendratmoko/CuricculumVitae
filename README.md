@@ -112,6 +112,12 @@ etc. <br>
   <a href="https://paypal.me/h_moko@yahoo.com">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
   </a>
+    <a href="https://saweria.co/semogabaik">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
+  </a>
+    <a href="https://teer.id/semogabaik">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
+  </a>
 </p>
 
 <p align="center">
@@ -128,4 +134,9 @@ This is my Curriculum Vitae, to be used properly
 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with 
+GPRM ( https://gprm.itsvg.in ) 
+Static Badge https://shields.io/badges
+Profil  https://profile-readme-generator.com/
+
+-->
