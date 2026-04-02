@@ -191,12 +191,13 @@ etc. <br>
 </p>
 
 <p align="center">
-  <img src=".github/workflows/github-MOKO.png" alt="*" width="20%">
+  <img src=".github/workflows/github-MOKO.png" alt="THANKS" width="20%">
 </p>
 
 <h5 align="center">
 <br><br>For further information & assistances, please do not hesitate to contact me at email, fb or my mobile phone number.<br>
-This is my Curriculum Vitae, to be used properly
+This is my Curriculum Vitae, to be used properly<br>
+@2025
 </h5>
 
 
