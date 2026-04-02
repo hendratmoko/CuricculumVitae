@@ -2,7 +2,7 @@
 
 <h3 align="center">My Github Profesional Profile</h3>
 
-![hendratmoko](.github/workflows/github-header-banner.png)
+![](.github/workflows/github-header-banner.png)
 
 <!-- Komentar Anda -->
 <div align="center">
@@ -199,9 +199,6 @@ etc. <br>
 <br><br>For further information & assistances, please do not hesitate to contact me at email, fb or my mobile phone number.<br>
 This is my Curriculum Vitae, to be used properly
 </h5>
-
-
-
 
 
   
