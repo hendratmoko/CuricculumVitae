@@ -180,9 +180,7 @@ etc. <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hendratmoko.hendratmoko&"  />
 </div>
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-<p align="left">GAME WITH ME</p>
+<p align="center">GAME WITH ME</p>
 
 <img src="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/snake.svg" alt="Snake animation" />
 
