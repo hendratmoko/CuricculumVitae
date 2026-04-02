@@ -1,4 +1,4 @@
-# CuricculumVitae
+############ CuricculumVitae
 
 <h3 align="center">My Github Profesional Profile</h3>
 
@@ -9,7 +9,6 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> 
 </div>
 
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /> 
@@ -17,26 +16,18 @@
 </div>
 <!-- Link belum selesai -->
 
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hendratmoko.hendratmoko&"  />
 </div>
 
-
-
 <h1 align="center">Hai Semua</h1>
-
-
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hendratmoko&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 <!-- Visitor -->
 
-
 <h3 align="left">👩‍💻  About Me</h3>
-
-
 
 <p align="left">Hi there... I'm MOKO from Indonesia<br><br><br>My Name Hendratmoko please call me MOKO<br>WhatsApp number +628813924881<br>Email: h_moko@yahoo.com<br>Place: Bantul Yogyakarta Indonesia<br><br>I was born in Bantul and studied at UGM (1995), UNY (1996), UNTIRTA (2010), before completing my studies at Harvard University (2021). I have experience working with the Indonesia Ministry of Education and Culture and than the Cilegon City Education Department. Now, I teach Software Engineering at Vocation School in Sanden Yogyakarta</p>
 
@@ -78,7 +69,6 @@ etc. <br>
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 #### 💻 Tech Language and tools Expert:
 ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) 
@@ -158,7 +148,6 @@ etc. <br>
 ![](https://nirzak-streak-stats.vercel.app/?user=hendratmoko&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hendratmoko&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=hendratmoko&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -166,8 +155,6 @@ etc. <br>
 
 <img src="https://github.com/hendratmoko/CuricculumVitae/blob/main/.github/workflows/snake.svg" alt="Snake animation" />
 <img src="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/pacman.svg" alt="Pacman animation" />
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/pacman-contribution-graph-dark.svg">
@@ -183,7 +170,6 @@ etc. <br>
 <p align="center">GAME WITH ME</p>
 
 <img src="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/snake.svg" alt="Snake animation" />
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/pacman-contribution-graph-dark.svg">
