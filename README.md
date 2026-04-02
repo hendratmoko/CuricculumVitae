@@ -23,11 +23,11 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hendratmoko.hendratmoko&"  />
 </div>
 
-###
+
 
 <h1 align="center">Hai Semua</h1>
 
-###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hendratmoko&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
@@ -37,9 +37,9 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
 
-<p align="left">Hi there... I'm MOKO from Indonesia<br><br>Hi there...<br>My Name Hendratmoko please call me MOKO<br>WhatsApp number +628813924881<br>Email: h_moko@yahoo.com<br>Place: Bantul Yogyakarta Indonesia<br><br>I was born in Bantul and studied at UGM (1995), UNY (1996), UNTIRTA (2010), before completing my studies at Harvard University (2021). I have experience working with the Indonesia Ministry of Education and Culture and than the Cilegon City Education Department. Now, I teach Software Engineering at Vocation School in Sanden Yogyakarta</p>
+
+<p align="left">Hi there... I'm MOKO from Indonesia<br><br><br>My Name Hendratmoko please call me MOKO<br>WhatsApp number +628813924881<br>Email: h_moko@yahoo.com<br>Place: Bantul Yogyakarta Indonesia<br><br>I was born in Bantul and studied at UGM (1995), UNY (1996), UNTIRTA (2010), before completing my studies at Harvard University (2021). I have experience working with the Indonesia Ministry of Education and Culture and than the Cilegon City Education Department. Now, I teach Software Engineering at Vocation School in Sanden Yogyakarta</p>
 
 EXPERIENCE
 <br><br>Quality Standart ISO 9001:2000/IWA 2 treatments to Schools. <br>
