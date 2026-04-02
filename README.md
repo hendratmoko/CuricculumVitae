@@ -191,7 +191,7 @@ etc. <br>
 </p>
 
 <p align="center">
-  <img src=".github/workflows/github-MOKO.png" alt="hendratmoko" width="20%">
+  <img src=".github/workflows/github-MOKO.png" alt="" width="20%">
 </p>
 
 <h5 align="center">
