@@ -180,27 +180,18 @@ etc. <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hendratmoko.hendratmoko&"  />
 </div>
 
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
-
-###
 
 <p align="left">GAME WITH ME</p>
 
-###
-
 <img src="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/snake.svg" alt="Snake animation" />
 
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/pacman-contribution-graph.svg">
 </picture>
-
-###
 
 <p align="center">
   💰 You can support me by Donating on:
@@ -226,12 +217,9 @@ This is my Curriculum Vitae, to be used properly<br>
 @2025
 </h5>
 
-
-  
 <!-- Proudly created with 
 GPRM ( https://gprm.itsvg.in ) 
 Static Badge https://shields.io/badges
 https://forthebadge.com/generator
 Profil  https://profile-readme-generator.com/
-
 -->
