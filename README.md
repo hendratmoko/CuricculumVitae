@@ -40,21 +40,21 @@
 
 <p align="left">Hi there... I'm MOKO from Indonesia<br><br><br>My Name Hendratmoko please call me MOKO<br>WhatsApp number +628813924881<br>Email: h_moko@yahoo.com<br>Place: Bantul Yogyakarta Indonesia<br><br>I was born in Bantul and studied at UGM (1995), UNY (1996), UNTIRTA (2010), before completing my studies at Harvard University (2021). I have experience working with the Indonesia Ministry of Education and Culture and than the Cilegon City Education Department. Now, I teach Software Engineering at Vocation School in Sanden Yogyakarta</p>
 
-EXPERIENCE
+<h3 align="left">👩‍💻  EXPERIENCE</h3>
 <br><br>Quality Standart ISO 9001:2000/IWA 2 treatments to Schools. <br>
 Quality Digitaly tratments to Schools and Agencys etc.<br>
 ISO 9001:2000 ISO 9001:2008 Transition Training <br>
 ISO 9001:2008 Series Lead Auditor (IRCA A17054)<br>
 BNSP Auditors Standart<br>
 
-EMPLOYMENT SUMMARY 
+<h3 align="left">👩‍💻  EMPLOYMENT SUMMARY </h3>
 <br><br>1 Juli 2000 To 1 Juli 2003  SMU Muhammadiyah 2 Depok<br>
 21 Juli 2003 to To 21 Sept 2003 SMK YP Fatahillah 1 <br>
 2006 To 2007 International School of SMU N 2 Krakatau Steel<br>
 01 Jan 2004 to 01 Jan 2018 SMK N 1 Cilegon<br>
 01 Jan 2018 until now SMK N 1 Sanden<br>
 
-FORMAL PRODUCT SKILL
+<h3 align="left">👩‍💻  FORMAL PRODUCT SKILL</h3>
 <br><br>ISO 9001:2008 Series Lead Auditor (IRCA A17054) <br>
 ISO 9001:2000 ISO 9001:2008 Transition Training<br>
 Assembling & Legal Action ISO 9001:2008/IWA2 Consult <br>
