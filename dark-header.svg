@@ -1,1 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100">
+  <style>
+    .rect { fill: #0d1117; } /* Warna background gelap */
+    @media (prefers-color-scheme: light) {
+      .rect { fill: #ffffff; } /* Warna background terang jika sistem pengguna terang */
+    }
+  </style>
+  <rect width="100%" height="100%" class="rect"/>
+  <text x="50%" y="50%" font-family="Arial" font-size="20" fill="white" text-anchor="middle" dominant-baseline="middle">
+    Judul README
+  </text>
+</svg>
 
