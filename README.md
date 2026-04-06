@@ -1,6 +1,8 @@
 <!-- Komentar Anda 
 ##### CuricculumVitae
 <!-- Komentar Anda -->
+![Dark Header](./dark-header.svg)
+
 <h3 align="center">My Github Profesional Profile</h3>
 
 ![](.github/workflows/github-header-banner.png)
