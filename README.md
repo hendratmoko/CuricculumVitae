@@ -181,16 +181,6 @@ etc. <br>
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/pacman-contribution-graph.svg">
 </picture>
 
-# mulai
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/pacman-contribution-graph.svg">
-</picture>
-
-
-# sampai sini
-
 <p align="center">
   💰 You can support me by Donating on:
   <br>
