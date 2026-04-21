@@ -173,12 +173,15 @@ etc. <br>
 <p align="center">GAME WITH ME</p>
 
 <img src="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/pacman.svg" alt="Pacman Animation" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hendratmoko/hendratmoko/output/pacman-contribution-graph.svg">
 </picture>
+
+![Snake animation](./output/snake.svg)
 
 <p align="center">
   💰 You can support me by Donating on:
